@@ -1,0 +1,7 @@
+﻿({
+	mainConfigFile: '../config.js',
+    include: 'scalejs.data-breeze',
+    exclude: [
+        'scalejs!core'
+    ]
+})

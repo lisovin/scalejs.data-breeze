@@ -1,0 +1,12 @@
+
+/packages
+/scalejs.data-breeze.v11.suo
+/.nuget/nuget.exe
+/scalejs.data-breeze/build
+/scalejs.data-breeze/obj
+/scalejs.data-breeze/js
+/scalejs.data-breeze/scalejs.data-breeze.csproj.user
+/scalejs.data-breeze.test/build
+/scalejs.data-breeze.test/obj
+/scalejs.data-breeze.test/scalejs.data-breeze.test.csproj.user
+/*.suo
